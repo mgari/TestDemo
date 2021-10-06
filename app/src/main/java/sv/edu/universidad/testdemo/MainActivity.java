@@ -15,8 +15,10 @@ public class MainActivity extends AppCompatActivity {
 
         //Toast.makeText(this,"Prueba de cambios en Github",Toast.LENGTH_LONG).show();
 
-        Toast.makeText(this,"Nuevamente haciendo cambios " +
-                "desde Android Studio hacia Github",Toast.LENGTH_LONG).show();
+        //Toast.makeText(this,"Nuevamente haciendo cambios " +
+        //        "desde Android Studio hacia Github",Toast.LENGTH_LONG).show();
+
+        Toast.makeText(this,"Un usuario mas probando",Toast.LENGTH_LONG).show();
 
     }
 }
