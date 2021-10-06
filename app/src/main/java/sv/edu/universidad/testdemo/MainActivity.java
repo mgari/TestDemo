@@ -13,7 +13,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Toast.makeText(this,"Prueba de cambios en Github",Toast.LENGTH_LONG).show();
+        //Toast.makeText(this,"Prueba de cambios en Github",Toast.LENGTH_LONG).show();
+
+        Toast.makeText(this,"Nuevamente haciendo cambios " +
+                "desde Android Studio hacia Github",Toast.LENGTH_LONG).show();
 
     }
 }
